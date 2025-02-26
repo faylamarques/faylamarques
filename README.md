@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey, eu sou a Fayla 👋
+
+
+🌱 Buscando construir uma carreira sólida como desenvolvedora front-end
+
+📚 Estudando TypeScript | Engenharia de Software
+
+😄 Pronouns: ela/dela
+
+
+
 
 <!--
 **faylamarques/faylamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
