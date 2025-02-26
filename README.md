@@ -1,9 +1,13 @@
 ## Hey, eu sou a Fayla 👋
 
 
-🌱 Buscando construir uma carreira sólida como desenvolvedora front-end
+🌱 Busco construir uma carreira sólida como desenvolvedora front-end
 
-📚 Estudando TypeScript | Engenharia de Software
+📝 Estou estudando TypeScript | Engenharia de Software
+
+📈 Aprimorando habilidades em otimização de performance web
+
+📚 Leitora assídua de ficção científica e tecnologia
 
 😄 Pronouns: ela/dela
 
