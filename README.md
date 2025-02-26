@@ -11,6 +11,14 @@
 
 😄 Pronouns: ela/dela
 
+🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+✉️ Email: faylamarques.dev@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/fayla-marques-5883a12a9/
 
 
 
