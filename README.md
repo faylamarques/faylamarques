@@ -1,7 +1,7 @@
 ## Hey, eu sou a Fayla 👋
 
 
-🌱 Busco construir uma carreira sólida como desenvolvedora front-end
+🌱 Buscando construir uma carreira sólida como desenvolvedora front-end
 
 📝 Estou estudando TypeScript | Engenharia de Software
 
